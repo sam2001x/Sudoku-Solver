@@ -1,3 +1,6 @@
 # Sudoku-Solver
-This programe uses backtracking Algorithm to solve the sudoku.
-Customise the Board and let programe to solve it for you.
+This program is designed for solving sudoku puzzels.
+* It is written in python language. 
+* It uses backtracking algorithm to solve the sudoku.
+* To solve the sudoku you have to enter the whole sudoku puzzle as a input to the program than as a result hole solved sudoku board is displayed on the screen.
+
